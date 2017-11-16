@@ -1,6 +1,0 @@
-two sum
-Qusetion:
-Given an array of integers, return indices of the two numbers such that they add up to a specific target.
-solution:
-1.using for circulation twice to find up the difference between target and number in the array.
-2.new a HashMap,calculate the diff between target and number in the array,and judge whether the diff is in the HaspMap.If it is true,break;false, then put the number to the map.
